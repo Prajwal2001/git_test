@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cities>
+    <city>
+        <name>Bengaluru</name>
+        <temperature>28</temperature>
+        <longitude>22.2222</longitude>
+        <latitude>11.1112</latitude>
+        <humidity>80</humidity>
+    </city>
+    <city>
+        <name>Mysore</name>
+        <temperature>29</temperature>
+        <longitude>23.2222</longitude>
+        <latitude>12.1111</latitude>
+        <humidity>85</humidity>
+    </city>
+</cities>

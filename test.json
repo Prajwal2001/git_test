@@ -1,0 +1,18 @@
+{
+  "city": [
+    {
+      "name": "Bengaluru",
+      "temperature": 28,
+      "latitude": "11.111",
+      "longitude": "22.222",
+      "humidity": 80
+    },
+    {
+      "name": "Mysore",
+      "temperature": 29,
+      "latitude": "12.111",
+      "longitude": "23.222",
+      "humidity": 85
+    }
+  ]
+}
