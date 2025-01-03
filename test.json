@@ -12,7 +12,8 @@
       "temperature": 29,
       "latitude": "12.111",
       "longitude": "23.222",
-      "humidity": 85
+      "humidity": 85,
+      "temp": "temp"
     }
   ]
 }
